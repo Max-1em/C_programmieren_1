@@ -1,1 +1,1 @@
-// say hello world in your terminal //
+// say hello world in your terminal / test yout setup //
