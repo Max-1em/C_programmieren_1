@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/intro",
-      "program": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/intro/build/Debug/outDebug"
+      "cwd": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/Exercise_dynamic_array",
+      "program": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/Exercise_dynamic_array/build/Debug/outDebug"
     }
   ]
 }
