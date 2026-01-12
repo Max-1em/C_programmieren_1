@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/intro",
+      "program": "/Users/maximilianlemmerth/Documents/C_programmieren_1/c_dhbw_students_2025/0010_DYNAMIC_MEMORY_MANAGEMENT/intro/build/Debug/outDebug"
+    }
+  ]
+}
