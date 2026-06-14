@@ -1,9 +1,7 @@
 #ifndef LIB_H
 #define LIB_H
 
-float calculate_total(int burger, int fries, int drinks);
-int count_items(int burger, int fries, int drinks);
+int calculateTotal(int anzBurger, int anzPommes, int anzGetraenke);
+int countItems(int anzBurger, int anzPommes, int anzGetraenke);
 
 #endif
-
-// Made with Bob

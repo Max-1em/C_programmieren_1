@@ -1,13 +1,13 @@
 #include "lib.h"
 
-float calculate_total(int burger, int fries, int drinks)
-{
-    return burger * 5.0f + fries * 3.0f + drinks * 2.0f;
-}
+/* TODO:
+   Implementiere hier die Funktionen aus lib.h.
 
-int count_items(int burger, int fries, int drinks)
-{
-    return burger + fries + drinks;
-}
+   Hinweise:
+   - calculateTotal soll die Gesamtsumme berechnen
+   - countItems soll die Gesamtanzahl berechnen
+   - Burger kostet 5
+   - Pommes kostet 3
+   - Getraenke kosten 2
+*/
 
-// Made with Bob

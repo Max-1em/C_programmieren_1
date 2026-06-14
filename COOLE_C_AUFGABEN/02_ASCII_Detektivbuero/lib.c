@@ -1,38 +1,12 @@
 #include "lib.h"
 
-int is_digit(char c)
-{
-    return c >= '0' && c <= '9';
-}
+/* TODO:
+   Implementiere hier die Funktionen aus lib.h.
 
-int is_upper(char c)
-{
-    return c >= 'A' && c <= 'Z';
-}
-
-int is_lower(char c)
-{
-    return c >= 'a' && c <= 'z';
-}
-
-char to_upper_char(char c)
-{
-    if (is_lower(c))
-    {
-        return c - 32;
-    }
-
-    return c;
-}
-
-char to_lower_char(char c)
-{
-    if (is_upper(c))
-    {
-        return c + 32;
-    }
-
-    return c;
-}
-
-// Made with Bob
+   Hinweise:
+   - is_digit prueft auf '0' bis '9'
+   - is_upper prueft auf 'A' bis 'Z'
+   - is_lower prueft auf 'a' bis 'z'
+   - to_upper_char wandelt Kleinbuchstaben um
+   - to_lower_char wandelt Grossbuchstaben um
+*/
