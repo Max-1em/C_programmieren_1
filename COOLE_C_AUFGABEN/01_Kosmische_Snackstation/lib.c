@@ -1,13 +1,9 @@
 #include "lib.h"
 
-/* TODO:
-   Implementiere hier die Funktionen aus lib.h.
 
-   Hinweise:
-   - calculateTotal soll die Gesamtsumme berechnen
-   - countItems soll die Gesamtanzahl berechnen
-   - Burger kostet 5
-   - Pommes kostet 3
-   - Getraenke kosten 2
-*/
-
+int calculateTotal(int anzBurger, int anzPommes, int anzGetraenke){
+    return (anzBurger*5) + (anzPommes*3) + (anzGetraenke*2);
+}
+int countItems(int anzBurger, int anzPommes, int anzGetraenke){
+    return anzBurger+anzPommes+anzGetraenke;
+}
